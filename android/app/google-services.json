@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "887053091070",
+    "project_id": "vitpick-32088",
+    "storage_bucket": "vitpick-32088.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887053091070:android:060ee1b034daa88da525af",
+        "android_client_info": {
+          "package_name": "com.vit.pick.vitpick"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2eap1NhaHUkru45cyNfHM6sI9A75jC_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
